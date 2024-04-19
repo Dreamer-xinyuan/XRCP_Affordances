@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Activities_XRCP/GroupProjectTemplate/Scenes/0_backroom.unity
+    guid: 2a252e334e34a414c95b7ff836802cf9
+  - enabled: 1
+    path: Assets/Activities_XRCP/GroupProjectTemplate/Scenes/1_backroom 1.unity
+    guid: 0a1bafb6404695b4f8a1cd90a349063c
+  - enabled: 1
+    path: Assets/Activities_XRCP/GroupProjectTemplate/Scenes/2_Wonderland.unity
+    guid: 99ed91a7f62c88e47a96ab10946a4aa3
+  - enabled: 1
+    path: Assets/Activities_XRCP/GroupProjectTemplate/Scenes/Bedroom.unity
+    guid: 142986960de703b4d92d3789d4bad11f
+  - enabled: 1
+    path: Assets/Activities_XRCP/GroupProjectTemplate/Scenes/32_backroom.unity
+    guid: 220b97567a891f54a9bc6a7f24119369
+  - enabled: 1
+    path: Assets/Activities_XRCP/GroupProjectTemplate/Scenes/2_backroom2.unity
+    guid: ba03bf76192d69a4bb859bafdc00cbc5
+  - enabled: 1
+    path: Assets/Activities_XRCP/GroupProjectTemplate/Scenes/1_Wonderland.unity
+    guid: d4c37e5242420c94b9088c00580a667c
+  - enabled: 1
+    path: Assets/Activities_XRCP/GroupProjectTemplate/Scenes/4_backroom1 1.unity
+    guid: 3bb1678bafc98a84f9fe35428cbc62a1
+  - enabled: 1
+    path: Assets/Activities_XRCP/GroupProjectTemplate/Scenes/6_backroom1 3.unity
+    guid: df8c6c1afd5774246b35ba6ffb1d2777
+  - enabled: 1
+    path: Assets/Activities_XRCP/GroupProjectTemplate/Scenes/0_StoryExampleScene.unity
+    guid: f05aece6d85e66c49af9e0f2785b76da
+  - enabled: 1
+    path: Assets/Activities_XRCP/GroupProjectTemplate/Scenes/1_StoryExampleScene.unity
+    guid: 29144926b3388de42a284033db9c82e6
+  - enabled: 1
+    path: Assets/Activities_XRCP/YourNameFolder/Scenes/ExampleTeamMateScene.unity
+    guid: dc8b6971d1f60824295a512e3b952808
+  - enabled: 1
+    path: Assets/Activities_XRCP/Bodies/Scenes/BodyOwnership.unity
+    guid: c117466b2f313cc4f99873ea62d83dfc
+  - enabled: 1
+    path: Assets/Activities_XRCP/Bodies/Scenes/IKBodyOwnership.unity
+    guid: 226e4ddb48779d3488b2bc25b3b99421
+  - enabled: 1
+    path: Assets/Activities_XRCP/GroupProjectTemplate/Scenes/3_Wonderland.unity
+    guid: 62c5d0f6825446240a9a80f0dee73763
+  - enabled: 1
+    path: Assets/Activities_XRCP/GroupProjectTemplate/Scenes/12_backroom 2.unity
+    guid: 76eed80cb79b9ff4fb1e6d925a86a6df
+  - enabled: 1
+    path: Assets/Activities_XRCP/GroupProjectTemplate/Scenes/1.5_backroom.unity
+    guid: 2e9d9055e9d411643a7a11c0c4110b4c
+  - enabled: 1
+    path: Assets/Activities_XRCP/GroupProjectTemplate/Scenes/5_backroom1 2.unity
+    guid: c4e77f094b561534f89c36388ef2d9c2
+  - enabled: 1
+    path: Assets/Activities_XRCP/GroupProjectTemplate/Scenes/0_Wonderland.unity
+    guid: 56e4d718f6447f64496da1c4670081d7
+  - enabled: 1
+    path: Assets/Activities_XRCP/GroupProjectTemplate/Scenes/Bedroom 1.unity
+    guid: bfb14f10bb12b494aaf4d11c05012444
+  - enabled: 1
+    path: Assets/Activities_XRCP/GroupProjectTemplate/Scenes/Final.unity
+    guid: 2a31f878136bd4c4db6d926813270f63
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9bec1ce6a03ccba4b9a8215241b32e63, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a49cadc1a815591479693b955ccf08c1, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1a4c68ca72a83449f938d669337cb305, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a9a6963505ddf7f4d886008c6dc86122, type: 2}
